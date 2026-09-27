@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.parquet
+*.npy
+*.tsv
+*.zip
+*.log
+data/
+out/
+output/
+models/

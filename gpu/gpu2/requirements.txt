@@ -1,0 +1,12 @@
+# torch: use the CUDA build already on the GPU box (torch >= 2.1 with CUDA)
+transformers==4.46.3
+tokenizers==0.20.3
+huggingface-hub==0.26.5
+safetensors>=0.4.3
+peft==0.13.2
+accelerate>=0.34,<2
+sentencepiece
+protobuf
+polars==1.38.1
+pyarrow>=14
+numpy>=1.24
